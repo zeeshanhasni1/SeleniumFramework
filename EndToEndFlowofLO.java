@@ -146,11 +146,11 @@ public class DepChrome {
         // Email configuration
         String host = "smtp.office365.com";
         String port = "587";
-        String username = "zeeshan@fivetech.co.uk";
-        String password = "Yax61204";
+        String username = "zeeshan@example.com";
+        String password = "your password here";
 
-        String from = "zeeshan@fivetech.co.uk";
-        String to = "zeeshan@fivetech.co.uk";
+        String from = "zeeshan@example.com";
+        String to = "zeeshan@example.com";
         String subject = "Test Automation Completed";
         String message = "Your Selenium test has completed.";
 
