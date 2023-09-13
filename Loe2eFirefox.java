@@ -22,7 +22,7 @@ import java.util.concurrent.TimeUnit;
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
 
-public class Loe2e {
+public class Loe2eFirefox {
     private WebDriver driver;
     private ExtentReports extent;
     private ExtentTest test;
