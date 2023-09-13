@@ -20,46 +20,46 @@
 
       <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
       <dependency>
-        <groupId>org.seleniumhq.selenium</groupId>
-        <artifactId>selenium-java</artifactId>
-        <version>4.11.0</version>
+          <groupId>org.seleniumhq.selenium</groupId>
+          <artifactId>selenium-java</artifactId>
+          <version>4.11.0</version>
       </dependency>
 
       <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-chrome-driver -->
       <dependency>
-        <groupId>org.seleniumhq.selenium</groupId>
-        <artifactId>selenium-chrome-driver</artifactId>
-        <version>4.11.0</version>
+          <groupId>org.seleniumhq.selenium</groupId>
+          <artifactId>selenium-chrome-driver</artifactId>
+          <version>4.11.0</version>
       </dependency>
 
       <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-firefox-driver -->
       <dependency>
-        <groupId>org.seleniumhq.selenium</groupId>
-        <artifactId>selenium-firefox-driver</artifactId>
-        <version>4.11.0</version>
+          <groupId>org.seleniumhq.selenium</groupId>
+          <artifactId>selenium-firefox-driver</artifactId>
+          <version>4.11.0</version>
       </dependency>
 
       <!-- https://mvnrepository.com/artifact/junit/junit -->
       <dependency>
-        <groupId>junit</groupId>
-        <artifactId>junit</artifactId>
-        <version>4.13.2</version>
-        <scope>test</scope>
+          <groupId>junit</groupId>
+          <artifactId>junit</artifactId>
+          <version>4.13.2</version>
+          <scope>test</scope>
       </dependency>
 
       <!-- https://mvnrepository.com/artifact/org.testng/testng -->
       <dependency>
-        <groupId>org.testng</groupId>
-        <artifactId>testng</artifactId>
-        <version>7.8.0</version>
-        <scope>test</scope>
+          <groupId>org.testng</groupId>
+          <artifactId>testng</artifactId>
+          <version>7.8.0</version>
+          <scope>test</scope>
       </dependency>
 
       <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-testng -->
       <dependency>
-        <groupId>io.cucumber</groupId>
-        <artifactId>cucumber-testng</artifactId>
-        <version>7.13.0</version>
+          <groupId>io.cucumber</groupId>
+          <artifactId>cucumber-testng</artifactId>
+          <version>7.13.0</version>
       </dependency>
 
       <dependency>
@@ -69,12 +69,12 @@
           <scope>test</scope>
       </dependency>
 
-    <!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
-    <dependency>
-      <groupId>io.github.bonigarcia</groupId>
-      <artifactId>webdrivermanager</artifactId>
-      <version>5.5.2</version>
-    </dependency>
+      <!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
+      <dependency>
+          <groupId>io.github.bonigarcia</groupId>
+          <artifactId>webdrivermanager</artifactId>
+          <version>5.5.2</version>
+      </dependency>
 
       <!-- https://mvnrepository.com/artifact/javax.mail/javax.mail-api -->
       <dependency>
@@ -90,6 +90,12 @@
           <version>1.5</version>
       </dependency>
 
+      <!-- https://mvnrepository.com/artifact/com.aventstack/extentreports -->
+      <dependency>
+          <groupId>com.aventstack</groupId>
+          <artifactId>extentreports</artifactId>
+          <version>4.1.7</version>
+      </dependency>
 
 
 
